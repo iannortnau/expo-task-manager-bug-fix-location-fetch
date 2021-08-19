@@ -1,0 +1,4 @@
+/expo-*.tgz
+
+# Project exclude paths
+/node_modules/
